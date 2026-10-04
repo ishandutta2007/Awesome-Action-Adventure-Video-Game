@@ -55,9 +55,9 @@ Welcome to the ultimate curated directory of **Action-Adventure Video Games** an
 
 ## 🔓 Open-Source Projects & Game Engines
 
-Below is a curated selection of open-source action-adventure projects, game engine recreations, and voxel sandboxes, ranked by GitHub Star count.
+Below is a curated selection of open-source action-adventure projects, game engine recreations, and voxel sandboxes, ranked by GitHub Stars_Count.
 
-| Star Count Badge | Project Name | License | Description & Category |
+| Stars_Count Badge | Project Name | License | Description & Category |
 | :---: | :--- | :--- | :--- |
 | [<img src="https://img.shields.io/github/stars/godotengine/godot?style=social&color=white" alt="Godot Stars"/>](https://github.com/godotengine/godot/stargazers) | **[Godot Engine](https://github.com/godotengine/godot)** | MIT | 🚀 **Premier Open-Source 2D/3D Game Engine**. Fully featured engine tailored for action-adventure game creation with GDScript, C#, and C++. |
 | [<img src="https://img.shields.io/github/stars/minetest/minetest?style=social&color=white" alt="Minetest Stars"/>](https://github.com/minetest/minetest/stargazers) | **[Minetest (Luanti)](https://github.com/minetest/minetest)** | LGPL-2.1 | 🧊 **Voxel Sandbox & Engine**. Extensible voxel adventure engine powered by Lua scripts with infinite world generation and modding support. |
