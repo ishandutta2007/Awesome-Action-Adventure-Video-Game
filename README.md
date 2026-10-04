@@ -1,239 +1,111 @@
-# Awesome-Action-Adventure-Video-Game
-
-# Awesome Action-Adventure Video Game
-
-
-
-**Curated List of Commercial Games & Open-Source Projects**
-
-*Focused on Exploration, Combat, Puzzle-Solving & Narrative-Driven Gameplay*
-
-**Last updated: October 2026**
-
-
-
-This repository tracks notable **commercial action-adventure games** and **open-source projects** that capture the same spirit—exploration, combat, puzzle-solving, and immersive storytelling.
-
-
-
-**Examples** include Sea of Thieves, Assassin's Creed Valhalla, The Legend of Zelda: Tears of the Kingdom, God of War Ragnarok, Grand Theft Auto V, Red Dead Redemption 2, Star Wars Jedi: Survivor, Horizon Forbidden West, Monster Hunter: World, and Tomb Raider (the category leaders).
-
-
-
-**Open-source emphasis**: The action-adventure genre is **dominated by AAA commercial titles**, but a **vibrant open-source ecosystem** exists for those who want to play, mod, or build their own adventures. **Minetest** (Luanti) is a mature voxel sandbox with thousands of community mods . **Sauerbraten** delivers fast-paced arena FPS with in-game map editing . **OpenMW** recreates Morrowind's engine with modern enhancements . **Xonotic** offers arena FPS action . **Veloren** is a voxel RPG in active development . **OpenTomb** and **OpenLara** resurrect classic Tomb Raider engines. This section documents these production-grade open-source solutions.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-
-
-- [Commercial Games](#commercial-games)
-
-- [Open-Source Projects](#open-source-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## Commercial Games
-
-
-
-- **[Sea of Thieves](https://www.seaofthieves.com/)**  
-
-  **Shared-world pirate adventure with emergent gameplay.** Sailing, treasure hunting, ship combat, and cooperative multiplayer in a persistent open world. Rare's flagship title with continuous content updates.
-
-
-
-- **[Assassin's Creed Valhalla](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla)**  
-
-  **Open-world Viking action RPG with stealth, combat, and exploration.** Large-scale world, settlement building, raids, and narrative-driven quests across England and Norway.
-
-
-
-- **[The Legend of Zelda: Tears of the Kingdom](https://www.zelda.com/tears-of-the-kingdom/)**  
-
-  **Nintendo's masterpiece of exploration and physics-based puzzle-solving.** Ultrahand and Fuse mechanics enable creative problem-solving in a vast open world with sky islands and underground depths.
-
-
-
-- **[God of War Ragnarok](https://www.playstation.com/en-us/games/god-of-war-ragnarok/)**  
-
-  **Norse mythology action-adventure with visceral combat and emotional storytelling.** Kratos and Atreus journey through the Nine Realms in a cinematic, single-take experience.
-
-
-
-- **[Grand Theft Auto V](https://www.rockstargames.com/gta-v)**  
-
-  **Open-world crime epic with three playable protagonists.** Los Santos offers heists, missions, and GTA Online's persistent multiplayer.
-
-
-
-- **[Red Dead Redemption 2](https://www.rockstargames.com/reddeadredemption2/)**  
-
-  **Western open-world masterpiece with unprecedented detail.** Arthur Morgan's journey through the dying American frontier.
-
-
-
-- **[Star Wars Jedi: Survivor](https://www.ea.com/games/star-wars/jedi-survivor)**  
-
-  **Action-adventure with lightsaber combat and Force powers.** Metroidvania-inspired exploration across multiple planets.
-
-
-
-- **[Horizon Forbidden West](https://www.playstation.com/en-us/games/horizon-forbidden-west/)**  
-
-  **Post-apocalyptic open world with machine hunting and tribal politics.** Aloy's journey through a lush, dangerous frontier.
-
-
-
-- **[Monster Hunter: World](https://www.monsterhunter.com/world/)**  
-
-  **Cooperative action RPG hunting giant monsters.** Crafting, environmental traps, and 14 weapon types across diverse ecosystems.
-
-
-
-- **[Tomb Raider](https://www.tombraider.com/)**  
-
-  **Defining action-adventure franchise with exploration, puzzle-solving, and survival.** Lara Croft's origins trilogy and classic titles.
-
-
-
-## Open-Source Projects
-
-
-
-### Voxel Sandbox & Adventure
-
-
-
-- **[Minetest (Luanti)](https://github.com/minetest/minetest)**  
-
-  **The leading open-source voxel game engine and sandbox.** **LGPL-2.1 licensed**, **13,000+ GitHub stars**, actively maintained . **Key features**: Infinitely extensible with **Lua mods** (thousands available); **procedural world generation**; multiplayer servers; educational use; runs on low-end hardware . **Best for**: Players wanting Minecraft-like exploration with total freedom to mod.
-
-
-
-- **[Veloren](https://github.com/veloren/veloren)**  
-
-  **Open-source multiplayer voxel RPG written in Rust.** **GPL-3.0 licensed**, **7,000+ GitHub stars**, actively developed . **Key features**: Procedurally generated world; dungeon exploration; combat with multiple weapon types; crafting; NPCs and quests; gliding and climbing . **Best for**: Players wanting a fresh voxel RPG with modern engine architecture.
-
-
-
-- **[The Mana World](https://github.com/themanaworld/tmwa-server-data)**  
-
-  **2D MMORPG with open-source server and client.** **GPL licensed**. **Key features**: 2D top-down exploration; quests; combat; community-driven content. **Best for**: Retro 2D MMO fans.
-
-
-
-### Classic Engine Recreations
-
-
-
-- **[OpenMW](https://github.com/OpenMW/openmw)**  
-
-  **Open-source reimplementation of The Elder Scrolls III: Morrowind engine.** **GPL-3.0 licensed**, **10,000+ GitHub stars** . **Key features**: Runs Morrowind natively on Windows, Linux, macOS, and Android; **improved graphics and performance**; mod support; Lua scripting; multiplayer via TES3MP fork; no original game required for engine, but game data needed . **Best for**: Morrowind fans wanting a modern, stable engine.
-
-
-
-- **[OpenTomb](https://github.com/opentomb/OpenTomb)**  
-
-  **Open-source Tomb Raider engine recreation (TR1–TR5).** **LGPL-3.0 licensed** . **Key features**: Runs classic Tomb Raider games with enhanced rendering, physics, and scripting; cross-platform . **Best for**: Classic Lara Croft fans and engine researchers.
-
-
-
-- **[OpenLara](https://github.com/XProger/OpenLara)**  
-
-  **Open-source Tomb Raider engine reimplementation in C++.** **BSD-2-Clause licensed** . **Key features**: Runs TR1–TR5; WebGL browser support; mobile ports . **Best for**: Playing Tomb Raider in a browser.
-
-
-
-- **[DevilutionX](https://github.com/diasurgical/devilutionX)**  
-
-  **Open-source Diablo engine recreation.** **Unlicense licensed**, **11,000+ GitHub stars** . **Key features**: Runs Diablo and Hellfire with modern improvements; multiplayer; cross-platform . **Best for**: Classic action RPG fans.
-
-
-
-### Arena FPS & Action
-
-
-
-- **[Sauerbraten (Cube 2)](https://github.com/sauerbraten/sauerbraten)**  
-
-  **Fast-paced arena FPS with in-game map editing.** **zlib licensed**. **Key features**: **Real-time cooperative map editing**; 5 gameplay modes (DM, TDM, CTF, etc.); bots; LAN/internet multiplayer; runs on low-end hardware . **Best for**: Players wanting Quake-like action with creative editing.
-
-
-
-- **[Xonotic](https://github.com/xonotic/xonotic)**  
-
-  **Arena FPS with weapons, vehicles, and fast movement.** **GPL-3.0 licensed** . **Key features**: 20+ weapons; vehicles; many game modes; bots; community maps and mods . **Best for**: Arena shooter fans wanting a polished open-source alternative.
-
-
-
-- **[Red Eclipse](https://github.com/redeclipse/base)**  
-
-  **Fast-paced arena FPS with movement tricks and creative gameplay.** **zlib licensed** . **Key features**: **Parkour-inspired movement** (wall-running, sliding); many weapons; many modes; bots; map editing . **Best for**: Players wanting Quake-like movement with creative flair.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Voxel Adventure**: **Minetest/Luanti** (LGPL, mods), **Veloren** (GPL-3, Rust RPG), **The Mana World** (GPL, 2D MMO) .
-
-- **Engine Recreations**: **OpenMW** (GPL-3, Morrowind), **OpenTomb** (LGPL-3, Tomb Raider), **OpenLara** (BSD-2, Tomb Raider), **DevilutionX** (Unlicense, Diablo) .
-
-- **Arena FPS**: **Sauerbraten** (zlib, map editing), **Xonotic** (GPL-3, vehicles), **Red Eclipse** (zlib, parkour) .
-
-- **Action RPG**: **FLARE** (GPL-3, Diablo-like), **Summoning Wars** (GPL-3, action RPG) .
-
-
-
-**Frameworks for building custom systems**: Combine **Minetest/Luanti** for sandbox exploration with mods, **Veloren** for modern voxel RPG, **OpenMW** for Morrowind-style questing, **Sauerbraten** for map editing and FPS action, **Xonotic** for arena combat, and **OpenTomb** or **OpenLara** for classic Tomb Raider puzzles. Add **Godot Engine** or **Bevy** (Rust) for building custom action-adventure games.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's commercial or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Commercial games listed are **proprietary products** requiring purchase. Open-source recreations like **OpenMW**, **OpenTomb**, and **OpenLara** require the original game data files to play.
-
-- **Open-source reality**: The open-source ecosystem for action-adventure is **mature and production-proven** at the **engine recreation layer** (**OpenMW**, **OpenTomb**, **OpenLara**, **DevilutionX**) and **voxel sandbox layer** (**Minetest/Luanti**, **Veloren**). **Arena FPS** is well-served by **Sauerbraten**, **Xonotic**, and **Red Eclipse** . However, **AAA-scale action-adventure games** (God of War, Red Dead Redemption, Zelda) require massive budgets, proprietary engines, and years of development that open-source projects cannot match. The open-source path is best for **classic game preservation, voxel exploration, arena FPS action, and engine research**.
-
-
+# 🎮 Awesome Action-Adventure Video Games
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Action-Adventure-Video-Game"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Action-Adventure-Video-Game?style=social" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Action-Adventure-Video-Game/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Action-Adventure-Video-Game?style=social" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Action-Adventure Video Games Banner" width="100%">
+</p>
 
 ---
 
+## 💡 Overview & SEO Highlights
 
+Welcome to the ultimate curated directory of **Action-Adventure Video Games** and **Open-Source Game Engines**! Whether you are a gamer seeking top-rated commercial blockbusters, a modder exploring customizable sandboxes, or a game developer looking for production-ready open-source engines like OpenMW and Minetest, this list provides comprehensive insights into pricing, free tiers, publisher size, and GitHub community stars.
 
-**Made for gamers, modders, game preservationists, and open-source enthusiasts.**
+> **Key Focus Areas**: Exploration 🧭 | Visceral Combat 🗡️ | Puzzle-Solving 🧩 | Narrative-Driven Quests 📖 | Voxel Sandboxes 🧊 | Game Engine Recreations ⚙️
 
-Let's make action-adventure gaming more open, moddable, and accessible.
+---
+
+## 📋 Table of Contents
+
+- [📊 Commercial Games & SaaS Market](#-commercial-games--saas-market)
+- [🔓 Open-Source Projects & Game Engines](#-open-source-projects--game-engines)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [📈 Star History](#-star-history)
+
+---
+
+## 📊 Commercial Games & SaaS Market
+
+> 📈 **Market Size & Structure**: The global action-adventure video game market is valued at **~$70 Billion** (part of the overall $200B+ gaming industry). The sector is **moderately concentrated** among major AAA publisher conglomerates (Sony, Take-Two, Microsoft, Ubisoft, Nintendo), while remaining vibrant with independent studio hits.
+
+### 💰 Commercial & Subscription Gaming Products
+
+| Product Name / Game | Starting Pricing | Free Tier / Trial Limit | Publisher / Parent Company | Est. Market Cap / Valuation / Revenue |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Grand Theft Auto V](https://www.rockstargames.com/gta-v)** | $29.99 one-time | 7-Day Free Trial via PlayStation Plus Extra / Xbox Game Pass Ultimate | Take-Two Interactive | ~$30 Billion Market Cap |
+| **[Red Dead Redemption 2](https://www.rockstargames.com/reddeadredemption2/)** | $59.99 one-time | 14-Day Free Trial via service promotions | Take-Two Interactive | ~$30 Billion Market Cap |
+| **[Sea of Thieves](https://www.seaofthieves.com/)** | $39.99 one-time / $9.99/mo Game Pass | 14-Day Free Trial via Xbox Game Pass Ultimate ($1 promo) | Microsoft (Xbox Game Studios) | ~$3.1 Trillion Market Cap |
+| **[Star Wars Jedi: Survivor](https://www.ea.com/games/star-wars/jedi-survivor)** | $69.99 one-time / $14.99/mo EA Play Pro | 10-Hour Free Trial via EA Play standard tier | Electronic Arts (EA) | ~$38 Billion Market Cap |
+| **[God of War Ragnarok](https://www.playstation.com/en-us/games/god-of-war-ragnarok/)** | $59.99 one-time | 3-Hour Free Trial via PlayStation Plus Premium | Sony Interactive Entertainment | ~$115 Billion Market Cap |
+| **[Horizon Forbidden West](https://www.playstation.com/en-us/games/horizon-forbidden-west/)** | $49.99 one-time | 5-Hour Free Trial via PlayStation Plus Premium | Sony Interactive Entertainment | ~$115 Billion Market Cap |
+| **[The Legend of Zelda: Tears of the Kingdom](https://www.zelda.com/tears-of-the-kingdom/)** | $69.99 one-time | 0-Day Trial (Demo available in select retail kiosks) | Nintendo | ~$65 Billion Market Cap |
+| **[Monster Hunter: World](https://www.monsterhunter.com/world/)** | $29.99 one-time | Free Trial Demo (Up to HR 4 / early story quests) | Capcom | ~$11 Billion Market Cap |
+| **[Assassin's Creed Valhalla](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla)** | $59.99 one-time / $17.99/mo Ubisoft+ | 7-Day Free Trial via Ubisoft+ Premium | Ubisoft | ~$2.5 Billion Valuation |
+| **[Tomb Raider Definitive Edition](https://www.tombraider.com/)** | $19.99 one-time | Free Tomb Raider I-III Remastered Demo on Steam | Embracer Group / Crystal Dynamics | ~$2.0 Billion Valuation |
+
+---
+
+## 🔓 Open-Source Projects & Game Engines
+
+Below is a curated selection of open-source action-adventure projects, game engine recreations, and voxel sandboxes, ranked by GitHub Star count.
+
+| Star Count Badge | Project Name | License | Description & Category |
+| :---: | :--- | :--- | :--- |
+| [<img src="https://img.shields.io/github/stars/godotengine/godot?style=social&color=white" alt="Godot Stars"/>](https://github.com/godotengine/godot/stargazers) | **[Godot Engine](https://github.com/godotengine/godot)** | MIT | 🚀 **Premier Open-Source 2D/3D Game Engine**. Fully featured engine tailored for action-adventure game creation with GDScript, C#, and C++. |
+| [<img src="https://img.shields.io/github/stars/minetest/minetest?style=social&color=white" alt="Minetest Stars"/>](https://github.com/minetest/minetest/stargazers) | **[Minetest (Luanti)](https://github.com/minetest/minetest)** | LGPL-2.1 | 🧊 **Voxel Sandbox & Engine**. Extensible voxel adventure engine powered by Lua scripts with infinite world generation and modding support. |
+| [<img src="https://img.shields.io/github/stars/diasurgical/devilutionX?style=social&color=white" alt="DevilutionX Stars"/>](https://github.com/diasurgical/devilutionX/stargazers) | **[DevilutionX](https://github.com/diasurgical/devilutionX)** | Unlicense | 🗡️ **Diablo I Engine Recreation**. Cross-platform source port of Diablo and Hellfire with modern UI, gamepad support, and multiplayer. |
+| [<img src="https://img.shields.io/github/stars/OpenMW/openmw?style=social&color=white" alt="OpenMW Stars"/>](https://github.com/OpenMW/openmw/stargazers) | **[OpenMW](https://github.com/OpenMW/openmw)** | GPL-3.0 | 📜 **Morrowind RPG Engine Reimplementation**. Modern C++ reimplementation of TES III: Morrowind engine supporting Linux, macOS, Windows, and Android. |
+| [<img src="https://img.shields.io/github/stars/bevyengine/bevy?style=social&color=white" alt="Bevy Stars"/>](https://github.com/bevyengine/bevy/stargazers) | **[Bevy Engine](https://github.com/bevyengine/bevy)** | MIT / Apache-2.0 | 🦀 **Data-Driven Rust Game Engine**. Refreshingly simple data-driven game engine built in Rust for high-performance 2D/3D action games. |
+| [<img src="https://img.shields.io/github/stars/veloren/veloren?style=social&color=white" alt="Veloren Stars"/>](https://github.com/veloren/veloren/stargazers) | **[Veloren](https://github.com/veloren/veloren)** | GPL-3.0 | 🏹 **Multiplayer Voxel Action RPG**. Open-world voxel RPG written in Rust, featuring combat, crafting, dungeon raids, and gliding. |
+| [<img src="https://img.shields.io/github/stars/xonotic/xonotic?style=social&color=white" alt="Xonotic Stars"/>](https://github.com/xonotic/xonotic/stargazers) | **[Xonotic](https://github.com/xonotic/xonotic)** | GPL-3.0 | 🔫 **Arena FPS & Fast Combat**. Addictive arena shooter with slick movement mechanics, diverse weaponry, and active competitive play. |
+| [<img src="https://img.shields.io/github/stars/XProger/OpenLara?style=social&color=white" alt="OpenLara Stars"/>](https://github.com/XProger/OpenLara/stargazers) | **[OpenLara](https://github.com/XProger/OpenLara)** | BSD-2-Clause | 🏺 **Classic Tomb Raider Engine (C++)**. Runs Tomb Raider 1–5 in modern browsers (WebGL), mobile devices, and consoles. |
+| [<img src="https://img.shields.io/github/stars/clintbellanger/flare-engine?style=social&color=white" alt="FLARE Engine Stars"/>](https://github.com/clintbellanger/flare-engine/stargazers) | **[FLARE Engine](https://github.com/clintbellanger/flare-engine)** | GPL-3.0 | 🛡️ **Free Libre Action Roleplaying Engine**. Isometric 2D action RPG engine built specifically for single-player hack-and-slash adventures. |
+| [<img src="https://img.shields.io/github/stars/opentomb/OpenTomb?style=social&color=white" alt="OpenTomb Stars"/>](https://github.com/opentomb/OpenTomb/stargazers) | **[OpenTomb](https://github.com/opentomb/OpenTomb)** | LGPL-3.0 | 🏛️ **Open Tomb Raider Engine**. Cross-platform engine designed to play classic Tomb Raider 1–5 levels with lua scripting and improved physics. |
+| [<img src="https://img.shields.io/github/stars/sauerbraten/sauerbraten?style=social&color=white" alt="Sauerbraten Stars"/>](https://github.com/sauerbraten/sauerbraten/stargazers) | **[Sauerbraten (Cube 2)](https://github.com/sauerbraten/sauerbraten)** | zlib | 🧱 **3D FPS Engine with In-Game Editing**. Fast-paced arena FPS featuring cooperative real-time map editing in 3D. |
+| [<img src="https://img.shields.io/github/stars/redeclipse/base?style=social&color=white" alt="Red Eclipse Stars"/>](https://github.com/redeclipse/base/stargazers) | **[Red Eclipse](https://github.com/redeclipse/base)** | zlib | 🏃 **Parkour Arena Shooter**. Arena action featuring parkour mechanics, wall-running, sliding, and extensive customisation. |
+| [<img src="https://img.shields.io/github/stars/themanaworld/tmwa-server-data?style=social&color=white" alt="The Mana World Stars"/>](https://github.com/themanaworld/tmwa-server-data/stargazers) | **[The Mana World](https://github.com/themanaworld/tmwa-server-data)** | GPL-2.0 | 🧙 **2D Retro MMORPG**. Community-driven 2D open-source MMORPG with classic action-adventure questing. |
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome! Follow these steps to submit your favorite action-adventure game or open-source project:
+
+1. 🍴 **Fork** the repository.
+2. 📝 **Add/edit** entries in `README.md` using clean Markdown formatting.
+3. 🔗 Include official link, 1–2 sentence description, license details, and pricing/star information.
+4. 🚀 Submit a **Pull Request** with a brief summary of additions.
+
+Please review our repository guidelines at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
+
+---
+
+## 💖 Support & Sponsorship
+
+If you found this curated list helpful, please consider supporting the project! Your encouragement keeps this directory updated and maintained.
+
+- ⭐ **Star** this repository to show your appreciation!
+- 🔀 **Fork** and share with fellow gamers and open-source developers.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated** open catalog intended for research and educational purposes.
+- Commercial games listed are proprietary titles requiring purchase from official storefronts.
+- Open-source engine recreations (e.g., OpenMW, OpenLara, DevilutionX) require legally acquired original game data files to play.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Action-Adventure-Video-Game&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Action-Adventure-Video-Game&type=date&legend=top-left)
